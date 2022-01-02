@@ -4,8 +4,8 @@ This repository was a way of learning more about two new but very important tech
 2. Quantum computing  
 
 Each of these topics is discussed in its own Jupyter notebook. The making of this project allowed  
-me to flesh out my research and independant learning skills and the experience of making it will aid me  
-in the future should I ever need to learn about an unfamiliar topic or skill in the future be it for my own personal projects or  
+me to flesh out my research and independent learning skills and the experience of making it will aid me  
+should I ever need to learn about an unfamiliar topic or skill in the future be it for my own personal projects or  
 in industry.  
   
 This project made me realise that even if a topic seems very daunting or difficult, if you take it one step at a time and  
@@ -19,6 +19,8 @@ It explains three machine learning algorithms that are used for classification o
 - Support Vector Machine
 - Decision Tree Algorithm
 - Random Forest 
+
+
 The explanations discuss in detail how these algorithms work.  
 Classification of the wine quality dataset[1] is performed and some reasons why algorithms may give a low prediction score  
 are discussed.   
