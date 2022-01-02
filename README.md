@@ -22,8 +22,7 @@ It explains three machine learning algorithms that are used for classification o
 
 
 The explanations discuss in detail how these algorithms work.  
-Classification of the wine quality dataset[1] is performed and some reasons why algorithms may give a low prediction score  
-are discussed.   
+Classification of the wine quality dataset[1] is performed and some reasons why algorithms may give a low prediction score are discussed.  
 The notebook also contains plots and diagrams meant to serve as a visual aid to help understand what the algorithms are doing. 
 
 ---
